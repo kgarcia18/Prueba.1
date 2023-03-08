@@ -9,4 +9,4 @@
 |Nombre: | Katherine Jazmín García Chitamul|
 |--------|---------------------------------|
 |Colegio:| Santa Catalina Labouré          |
-|Mi trabajo:| https://kgarcia18.github.io/prueba.1/ |
+|Mi trabajo:| https://kgarcia18.github.io/Prueba.1/ |
