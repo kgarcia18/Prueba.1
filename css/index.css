@@ -1,0 +1,71 @@
+img{
+    width: 6rem;
+    height: 6rem;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(248, 198, 122);
+    padding: 0.01rem;
+}
+.usuario{
+    float: left;
+}
+.componentes{
+    width: 100%;
+    list-style-type: none;
+    text-align: right;
+}
+.componentes li{
+    display: inline-flex;
+    text-align: center;
+}
+.componentes li a{
+    text-decoration: none;
+    color: rgb(44, 44, 44);
+    padding: 10px;
+    width: 200px;
+}
+.componentes li a:hover{
+    background-color: aquamarine;
+}
+.foto1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tamañofoto{
+    width: 50rem;
+    height: 25rem;
+}
+.titulo1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parrafo1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parrafo2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tabla{
+    width: 100%;
+    margin: 2rem;
+}
+.imagenes img{
+    border-radius: 50%;
+    object-fit: cover;
+}
+.ultimo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(248, 198, 122);
+    padding: 3rem;
+}
