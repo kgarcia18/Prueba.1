@@ -1,6 +1,6 @@
 .contenido{
     width: 80rem;
-    height: 80rem;
+    height: 100vh;
     padding: 3rem;
 
     margin: auto;
@@ -57,12 +57,14 @@ img{
     justify-content: center;
     align-items: center;
     padding: 2rem;
+    text-align: justify;
 }
 .parrafo2{
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 2rem;
+    text-align: justify;
 }
 .tabla{
     width: 100%;
