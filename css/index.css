@@ -1,3 +1,11 @@
+.contenido{
+    width: 80rem;
+    height: 80rem;
+    padding: 3rem;
+
+    margin: auto;
+
+}
 img{
     width: 6rem;
     height: 6rem;
@@ -48,11 +56,13 @@ img{
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 2rem;
 }
 .parrafo2{
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 2rem;
 }
 .tabla{
     width: 100%;
@@ -62,10 +72,13 @@ img{
     border-radius: 50%;
     object-fit: cover;
 }
-.ultimo{
+.ultimo a{
     display: flex;
     justify-content: center;
     align-items: center;
     background: rgb(248, 198, 122);
     padding: 3rem;
+    list-style-type: none;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
 }
